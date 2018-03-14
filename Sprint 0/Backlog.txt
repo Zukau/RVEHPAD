@@ -2,3 +2,32 @@ Backlog Sprint 0
 
 14/03/2018:
 
+Project Name : EHPADREV 
+Sprint number :  0
+Scrum master name : Thomas PERRIN
+Number of developers : 3
+Number of working days : 3
+Capacity: 72
+Start date : 28/02/2018
+End date (estimated): 21/03/2018
+
+Découverte du projet:
+
+  - Réunion de démarrage 6h
+  - Visite du CERV  6h
+  
+Installation logiciels et matériel:
+
+  - Unity 3D 5.2 sur machines persos 6h
+  - Vidéoprojecteur stéréo +   écran de projection dans la salle de l’ENIB 6h
+  
+Prise en main:
+
+  - Unity 3D 18 h
+  - Relation logiciel/matériel 6h
+  
+Affichage d’un cube en stéréo :
+
+  - Développement sous Unity de l ’environnement virtuel avec un cube avec un cube 6h
+  - Affichage de l’environnement virtuel sur l'écran de projection 6h
+  - Affichage de l’environnement virtuel dans le CAVE du CERV 12h
